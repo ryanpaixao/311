@@ -1,0 +1,25 @@
+{
+  "name": "map311",
+  "description": "Mapping for 311 service",
+  "main": "build/index.html",
+  "authors": [
+    "Ryan Paixao"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "chart.js": "^2.3.0",
+    "moment": "^2.15.2",
+    "bootstrap": "boostrap#^3.3.7",
+    "leaflet": "^1.0.1"
+  }
+}
